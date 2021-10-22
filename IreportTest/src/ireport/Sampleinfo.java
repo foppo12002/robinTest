@@ -11,7 +11,7 @@ public class Sampleinfo {
 	public static void main(String[] args) {
 		String realpath = "";
 		String iReportFile = "";
-		String pdfPath = "";
+		String pdfPath = "s";
 		List<People> detailList=new ArrayList<People>(); 
 //		JasperReport jasperReport = (JasperReport) JRLoader.loadObject (reportPath);
 //        JasperPrint jasperPrint = JasperFillManager.fillReport (jasperReport, parameters, new DailySalesDataSource());
